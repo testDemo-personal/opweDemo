@@ -1,0 +1,16 @@
+PODS:
+  - opweDemo (0.1.0)
+
+DEPENDENCIES:
+  - opweDemo (from `../`)
+
+EXTERNAL SOURCES:
+  opweDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  opweDemo: a631b41dd6e3f01f03e6c8724810a8db5e3797c0
+
+PODFILE CHECKSUM: 240929ab52ed7fbc29f1090c06eb0ed14659565a
+
+COCOAPODS: 1.15.2

@@ -1,0 +1,6 @@
+framework module opweDemo {
+  umbrella header "opweDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
